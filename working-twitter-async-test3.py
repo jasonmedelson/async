@@ -76,7 +76,19 @@ links = ["https://twitter.com/Aydren/status/994326702284140544",
         "https://twitter.com/FemSteph/status/994438286020984832",
         "https://twitter.com/summit1g/status/994352812271198208",
         "https://twitter.com/JaceHall/status/995997936357015552",
-        
+        "https://twitter.com/Aydren/status/994326702284140544",
+        "https://twitter.com/FemSteph/status/994438286020984832",
+        "https://twitter.com/summit1g/status/994352812271198208",
+        "https://twitter.com/JaceHall/status/995997936357015552",
+        "https://twitter.com/GrantLiffmann/status/1018926952781004802",
+        "https://twitter.com/BigWos/status/1018925261885079552",
+        "https://twitter.com/Mariannoo/status/1018924799874289666",
+        "https://twitter.com/Ballislife/status/1018919744920080384",
+        "https://twitter.com/kpelton/status/1018919394020216833",
+        "https://twitter.com/FemSteph/status/994438286020984832",
+        "https://twitter.com/summit1g/status/994352812271198208",
+        "https://twitter.com/JaceHall/status/995997936357015552",
+
         ]
 
 async def main(link):
